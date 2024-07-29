@@ -1,0 +1,40 @@
+name: radx-destiller
+
+channels:
+  - conda-forge
+  - anaconda
+
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - jupyterlab_widgets
+  - ipywidgets
+  - pandas
+  - pyarrow
+  - openpyxl
+  - levenshtein
+  - titlecase
+  - nameparser
+  - inflection
+  - fake-useragent
+  - tqdm
+  - matplotlib
+  - seaborn
+  - black
+  - pylint
+  - vulture
+  - python-dotenv=1.0.0
+  - openssl
+  - networkx
+  - transformers
+  - openai
+  - langchain
+  - langchain-community
+  - langchain-huggingface
+  - langchain-chroma
+  - chromadb
+  - tiktoken
+  - pypdf
+  - requests
+  - beautifulsoup4
+

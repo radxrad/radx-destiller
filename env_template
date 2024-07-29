@@ -1,0 +1,19 @@
+# OPENAI
+#
+OPENAI_API_KEY=<api_key>
+# https://platform.openai.com/docs/models
+# As of July 2024, gpt-4o-mini should be used in place of gpt-3.5-turbo,
+# as it is cheaper, more capable, multimodal, and just as fast.
+# gpt-3.5-turbo is still available for use in the API.
+# gpt-4o-mini 128,000 tokens
+OPENAI_MODEL=gpt-4o-mini
+#
+# SDSC
+#
+SDSC_LLM_API_KEY=<api_key>
+SDSC_LLM_BASE_URL=https://sdsc-llama3-api.nrp-nautilus.io/v1
+SDSC_LLM_MODEL=meta-llama/Meta-Llama-3-8B-Instruct
+#
+# API for BioPortal
+#
+BIOPORTAL_API_KEY=<api_key>
