@@ -107,11 +107,3 @@ logs/
 # Nemo
 config.yml
 
-# radx-kg
-neo4j_utils.py
-neo4j_bulk_importer.py
-utils.py
-PrepareNeo4jBulkImport.ipynb
-PrepareNeo4jBulkImport_out.ipynb
-derived_data
-kg_em
