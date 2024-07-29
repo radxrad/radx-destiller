@@ -20,7 +20,7 @@ Prerequisites: Miniconda3 (light-weight, preferred) or Anaconda3 and Mamba (fast
 1. Clone this Repository
 
 ```
-git clone https://github.com/radx/radx-destiller
+git clone https://github.com/radxrad/radx-destiller
 cd radx-destiller
 ```
 
