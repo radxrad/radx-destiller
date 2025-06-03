@@ -20,21 +20,23 @@ dependencies:
   - tqdm
   - matplotlib
   - seaborn
+  - plotly
+  - scikit-learn
+  - umap-learn
+  - pydantic
   - black
   - pylint
   - vulture
   - python-dotenv=1.0.0
   - openssl
-  - networkx
-  - transformers
   - openai
   - langchain
   - langchain-community
-  - langchain-huggingface
-  - langchain-chroma
-  - chromadb
   - tiktoken
   - pypdf
+  - lxml
+  - tenacity
   - requests
   - beautifulsoup4
+
 

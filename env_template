@@ -2,14 +2,8 @@
 #
 OPENAI_API_KEY=<api_key>
 # https://platform.openai.com/docs/models
-OPENAI_MODEL=gpt-4o-mini
 #
 # SDSC
 #
 SDSC_LLM_API_KEY=<api_key>
 SDSC_LLM_BASE_URL=https://sdsc-llm-api.nrp-nautilus.io/
-SDSC_LLM_MODEL=meta-llama/Meta-Llama-3.1-70B-Instruct
-#
-# API for BioPortal
-#
-BIOPORTAL_API_KEY=<api_key>
