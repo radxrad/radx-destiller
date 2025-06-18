@@ -87,13 +87,13 @@ jupyter lab
 
 | Notebook                                   | Description                                                           |
 | ------------------------------------------ | --------------------------------------------------------------------- |
-|   1_get_dbGaP_abstracts.ipynb | Retrieves study titles and abstracts from dbGaP for the RADx-rad initiative. |
-|   2_get_funding_opportuntities.ipynb | Downloads and parses the core Funding Opportunity Announcement (FOA) for the RADx-rad initiative. |
-|   3_get_radx_mentions.ipynb | Retrieves full-text articles in PubMed Central data mentioning the the keyword "RADx" |
-|   4_get_publications.ipynb | Retrieves publications from PubMed mentioning a RADx-rad project (grant) number. |
-|   5_classify_publications_likert.ipynb | Classifies publications for relevance to RADx-rad program objectives LLMs. |
-|   6_analyze_publications_likert.ipynb | Analyzes and validates the relevance scoring using LLMs. |
-|   7_select_publications_likert.ipynb | Selects and saves publications into two files with and without relevance to the RADx-rad initiative |
+|   [1_get_dbGaP_abstracts.ipynb](notebooks/1_get_dbGaP_abstracts.ipynb) | Retrieves study titles and abstracts from dbGaP for the RADx-rad initiative. |
+|   [2_get_funding_opportuntities.ipynb](notebooks/2_get_funding_opportuntities.ipynb) | Downloads and parses the core Funding Opportunity Announcements (FOA) for the RADx-rad initiative. |
+|   [3_get_radx_mentions.ipynb](notebooks/3_get_radx_mentions.ipynb) | Retrieves full-text articles in PubMed Central data mentioning the keyword "RADx" |
+|   [4_get_publications.ipynb](notebooks/4_get_publications.ipynb) | Retrieves publications from PubMed mentioning a RADx-rad project (grant) number. |
+|   [5_classify_publications_likert.ipynb](notebooks/5_classify_publications_likert.ipynb) | Classifies publications for relevance to RADx-rad program objectives LLMs. |
+|   [6_analyze_publications_likert.ipynb](notebooks/6_analyze_publications_likert.ipynb) | Analyzes and validates the relevance scoring using LLMs. |
+|   [7_select_publications_likert.ipynb](notebooks/7_select_publications_likert.ipynb) | Selects and saves publications into two files with and without relevance to the RADx-rad initiative |
    
 3. When you are finished, deactivate the conda environment
 
